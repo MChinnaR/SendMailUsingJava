@@ -7,6 +7,9 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class Email {
+//	Before using this we have to enable the setting in mail 
+//	open gmail --> security --> Below 2 step verification App Password 
+	// select others--> create password copy password past in application.proprties
 
 	@Autowired
 	private JavaMailSender mailSender;
