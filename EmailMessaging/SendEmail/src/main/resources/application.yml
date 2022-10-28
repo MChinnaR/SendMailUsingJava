@@ -1,0 +1,15 @@
+#server:
+#  port: 8090
+# 
+#spring:
+#  application:
+#    name: "EMAIL SENDER"
+#    
+#  mail:
+#    host: smtp.gmail.com
+#    port: 587
+#    username: chinna.mondem@gmail.com 
+#    password: bpblmrvqxklsqthi
+#
+#      
+#    
